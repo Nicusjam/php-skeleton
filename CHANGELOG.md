@@ -1,6 +1,11 @@
 # Changelog
 
 
+## [1.0.1] - 2016-01-22
+### Changed
+- Just this file, to have a diff link between tags
+
+
 ## [1.0.0] - 2016-01-22
 ### Added
 - Code folders (src, tests)
@@ -17,3 +22,4 @@
 
 
 [1.0.0]: https://github.com/matthiasmullie/php-skeleton/compare/d55bc5c72633e81830fe291ced7466a1179f5a82...1.0.0
+[1.0.1]: https://github.com/matthiasmullie/php-skeleton/compare/1.0.0...1.0.1
