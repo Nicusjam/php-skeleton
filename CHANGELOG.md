@@ -1,6 +1,11 @@
 # Changelog
 
 
+## [1.0.2] - 2016-01-25
+### Changed
+- User specific files should not appear in .gitignore
+
+
 ## [1.0.1] - 2016-01-22
 ### Changed
 - Just this file, to have a diff link between tags
@@ -23,3 +28,5 @@
 
 [1.0.0]: https://github.com/matthiasmullie/php-skeleton/compare/d55bc5c72633e81830fe291ced7466a1179f5a82...1.0.0
 [1.0.1]: https://github.com/matthiasmullie/php-skeleton/compare/1.0.0...1.0.1
+[1.0.2]: https://github.com/matthiasmullie/php-skeleton/compare/1.0.1...1.0.2
+
