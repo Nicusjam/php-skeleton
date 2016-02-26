@@ -15,4 +15,5 @@ script:
   - ./vendor/bin/phpunit
 
 after_success:
+  - vendor/bin/cauditor
   - codecov
