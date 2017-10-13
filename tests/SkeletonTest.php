@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
 
 class SkeletonTest extends TestCase
 {
-    public function testGetAndSet()
+    public function testCreateInstance()
     {
         $skeleton = new Skeleton();
         $this->assertInstanceOf('MatthiasMullie\Skeleton\Skeleton', $skeleton);

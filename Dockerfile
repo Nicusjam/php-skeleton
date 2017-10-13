@@ -10,5 +10,3 @@ RUN docker-php-ext-install zip
 RUN curl -sS https://getcomposer.org/installer | php
 RUN mv composer.phar /usr/local/bin/composer
 RUN composer install
-
-# @todo composer install?
