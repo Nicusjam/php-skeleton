@@ -2,6 +2,10 @@
 
 
 ## [1.0.4] - 2017-10-13
+### Changed
+- Require more recent PHPUnit version
+- Require more recent php-cs-fixer version
+
 ### Removed
 - Removed cauditor - cauditor.org is no longer up
 
