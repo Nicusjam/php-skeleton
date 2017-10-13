@@ -1,6 +1,11 @@
 # Changelog
 
 
+## [1.0.4] - 2017-10-13
+### Removed
+- Removed cauditor - cauditor.org is no longer up
+
+
 ## [1.0.3] - 2016-02-27
 ### Added
 - .cauditor.yml & run cauditor from .travis.yml
@@ -35,4 +40,4 @@
 [1.0.1]: https://github.com/matthiasmullie/php-skeleton/compare/1.0.0...1.0.1
 [1.0.2]: https://github.com/matthiasmullie/php-skeleton/compare/1.0.1...1.0.2
 [1.0.3]: https://github.com/matthiasmullie/php-skeleton/compare/1.0.2...1.0.3
-
+[1.0.4]: https://github.com/matthiasmullie/php-skeleton/compare/1.0.3...1.0.4
