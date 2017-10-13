@@ -3,9 +3,9 @@
 namespace MatthiasMullie\Skeleton\Tests;
 
 use MatthiasMullie\Skeleton\Skeleton;
-use PHPUnit_Framework_TestCase;
+use PHPUnit\Framework\TestCase;
 
-class SkeletonTest extends PHPUnit_Framework_TestCase
+class SkeletonTest extends TestCase
 {
     public function testGetAndSet()
     {
