@@ -3,6 +3,7 @@
 
 ## [1.0.4] - 2017-10-13
 ### Added
+- Add up, down & test makefile instructions
 - Add Docker, making it easy to set up browser-accessible endpoints
 
 ### Changed
