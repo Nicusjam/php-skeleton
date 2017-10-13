@@ -25,10 +25,15 @@ Don't forget to add your changes to the [changelog](CHANGELOG.md).
 ### Testing
 
 Please include tests for every change or addition to the code.
+
+A Docker image has been created to set up the environment.
+This can be launched from the command line, as configured in the makefile.
+Just make sure you have installed Docker & Docker-compose.
+
 To run the complete test suite:
 
 ```sh
-vendor/bin/phpunit
+make test
 ```
 
 When submitting a new pull request, please make sure that that the test suite

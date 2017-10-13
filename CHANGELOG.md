@@ -9,6 +9,7 @@
 ### Changed
 - Require more recent PHPUnit version
 - Require more recent php-cs-fixer version
+- Update CONTRIBUTING.md instructions to run tests with Docker
 
 ### Removed
 - Removed cauditor - cauditor.org is no longer up
