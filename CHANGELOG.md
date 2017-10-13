@@ -2,6 +2,9 @@
 
 
 ## [1.0.4] - 2017-10-13
+### Added
+- Add Docker, making it easy to set up browser-accessible endpoints
+
 ### Changed
 - Require more recent PHPUnit version
 - Require more recent php-cs-fixer version
